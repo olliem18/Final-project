@@ -11,7 +11,8 @@ My final project is a backup sensor that beeps faster the closer you are to it. 
 - 4 female to male wires
 - 
 ## WIRING
-(see image)
+(see image)file:///home/oliverm/IMG_1050.jpg
+
 
 ## Code
 ```python
