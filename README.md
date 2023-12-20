@@ -12,7 +12,8 @@ My final project is a backup sensor that beeps faster the closer you are to it. 
 - 
 ## WIRING
 
-file:///home/oliverm/IMG_1050.jpg
+
+![IMG_1050](https://github.com/olliem18/Final-project/assets/143106944/43094b4b-16e2-4c1c-8181-de643c6da180)
 
 
 ## Code
